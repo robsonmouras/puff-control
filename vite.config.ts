@@ -4,5 +4,5 @@ import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
   plugins: [vue()],
-  base: '/NOME_DO_REPOSITORIO/', // Substitua pelo nome do seu repositório
+  base: 'https://github.com/robsonmouras/puff-control.git', // Substitua pelo nome do seu repositório
 })

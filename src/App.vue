@@ -130,7 +130,7 @@ onMounted(() => {
   <div class="min-h-screen bg-blue-200 flex flex-col items-center text-center text-blue-900">
     <div class="mt-6">
       <h1 class="text-sm font-bold">PUFF CONTROL</h1>
-      <img src="@/assets/logo.png" alt="Puff Control" class="w-50 h-50 mx-auto mb-2" />
+      <!-- <img src="@/assets/logo.png" alt="Puff Control" class="w-50 h-50 mx-auto mb-2" /> -->
     </div>
 
     <h2 class="text-xl font-semibold mt-4">
